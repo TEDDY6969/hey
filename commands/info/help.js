@@ -13,10 +13,10 @@ module.exports = {
     
     let embed = new MessageEmbed()
     .setColor(Color)
-    .setTitle(`${client.user.username} Commands!`)
-    .setDescription(`Use ${Prefix}Help <Command Name> For More Command Information!` + 
-    "\n\n**Fun**\n`Avatar, Coinflip, Howgay, Meme, Rate, 8ball, Dicksize, Ascii, Choose, Hack, Randomnumber`" + "\n\n" + "**Moderation**\n`Clear, Mute, Unmute, Tempmute, Kick, Ban, Unban, Tempban, Warn, Warnings, ResetWarns`" + "\n\n"+
-    "**Information**\n`Help, Covid, Weather, Userinfo, Serverinfo, Ping`")
+    .setTitle(` <a:offred:819503612831989781> ${client.user.username} Commands!`)
+    .setDescription(` <a:DE_HypesquadGold:819503430141214751> Use ${Prefix}Help <Command Name> For More Command Information!` + 
+    "\n\n** <a:BlueFire:819627527861174302> Fun**\n`Avatar, Coinflip, Howgay, Meme, Rate, 8ball, Dicksize, Ascii, Choose, Hack, Randomnumber`" + "\n\n" + "** <a:Setting:819578928527441940> Moderation**\n`Clear, Mute, Unmute, Tempmute, Kick, Ban, Unban, Tempban, Warn, Warnings, ResetWarns`" + "\n\n"+
+    "** <a:vrInstagram:819522520390041680> Information**\n`Help, Covid, Weather, Userinfo, Serverinfo, Ping`")
     .setFooter(`Requested By ${message.author.username}`)
     .setTimestamp();
     
