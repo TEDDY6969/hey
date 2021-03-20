@@ -17,8 +17,8 @@ module.exports = {
     .setDescription(` <a:DE_HypesquadGold:819503430141214751> Use ${Prefix}Help <Command Name> For More Command Information!` + 
     "\n\n** <a:BlueFire:819627527861174302> Fun**\n`Avatar, Coinflip, Howgay, Meme, Rate, 8ball, Dicksize, Ascii, Choose, Hack, Randomnumber`" + "\n\n" + "** <a:Setting:819578928527441940> Moderation**\n`Clear, Mute, Unmute, Tempmute, Kick, Ban, Unban, Tempban, Warn, Warnings, ResetWarns`" + "\n\n"+
     "** <a:vrInstagram:819522520390041680> Information**\n`Help, Covid, Weather, Userinfo, Serverinfo, Ping`")
-    .addField('<a:DE_HypesquadGold:819503430141214751> Useful Links', `[Invite](https://discord.com/api/oauth2/authorize?client_id=822733731747332107&permissions=8&scope=bot)
-    .setImage("https://cdn.discordapp.com/attachments/817462338004713472/822738140761817088/standard_2.gif")
+    .addField('<a:DE_HypesquadGold:819503430141214751> Links', `[Invite Now ](https://discord.com/api/oauth2/authorize?client_id=822733731747332107&permissions=8&scope=bot)`)
+    .setImage("https://cdn.discordapp.com/attachments/819191238271959055/822744199614431252/standard_3.gif")
     .setFooter(`Requested By ${message.author.username}`)
     .setTimestamp();
     
